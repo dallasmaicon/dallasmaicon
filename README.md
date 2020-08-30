@@ -2,7 +2,7 @@
 
 <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/octocat.png?raw=true" title="Octocat de DallasMaicon" alt="Octocat de DallasMaicon" width="30%" align="left" />
 
-<p>Se aprochegue meu amigo, e confira meus projetos, qualquer dúvida ou sujestão, estou a disposição.</p>
+<p style="color: blue">Se aprochegue meu amigo, e confira meus projetos, qualquer dúvida ou sujestão, estou a disposição.</p>
 
 <!--
 **dallasmaicon/dallasmaicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
