@@ -8,7 +8,15 @@
 
 <p>:computer: :penguin: Estou trabalhando com Delphi no momento, mas tenho conhecimento em outras linguaguens, algumas sendo usados no meio corporativo. :office: </p>
 
-<p>**Tecnologias:**</p>
+### Tecnologias:
+<ul>
+  <li>HTML5 | CSS3 | Javascript</li>
+  <li>PHP | AJAX</li>
+  <li>Delphi</li>
+  <li>NodeJS</li>
+  <li>React</li>
+  <li>SQL - SQLServer | Oracle | MariaDB | MondoDB | Firebird</li>
+</ul>
 
 <!--
 **dallasmaicon/dallasmaicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
