@@ -1,8 +1,14 @@
-### Olá, Seja bem vindo(a) ao GitHub de Maicon (dallasmaicon) 👋
+# Olá, Seja bem vindo(a) ao GitHub de Maicon (dallasmaicon)
 
 <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/octocat.png?raw=true" title="Octocat de DallasMaicon" alt="Octocat de DallasMaicon" width="30%" align="left" />
 
-<p> :v: :wave: :punch: Se aprochegue meu amigo, e confira meus projetos, qualquer dúvida ou sujestão, estou a disposição.</p>
+<p> :v: :wave: Se aprochegue meu amigo, e confira meus projetos, qualquer dúvida ou sujestão, estou a disposição. :punch: </p>
+
+<p>:office: :computer: Atualmente estou trabalhando na <a href="http://questor.com.br/" target="_blank" title="Questor Sistemas | Empresa onde dallasmaicon trabalha atualmente">Questor Sistemas</a></p>
+
+<p>:computer: :penguin: Estou trabalhando com Delphi no momento, mas tenho conhecimento em outras linguaguens, algumas sendo usados no meio corporativo. :office: </p>
+
+<p>**Tecnologias:**</p>
 
 <!--
 **dallasmaicon/dallasmaicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
