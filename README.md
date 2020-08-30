@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo(a) ao GitHub de Maicon (dallasmaicon) 👋
 
-<img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/octocat.png?raw=true" title="Octocat de DallasMaicon" alt="Octocat de DallasMaicon" width="30%" align="left" />
+<img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/octocat.png?raw=true" title="Octocat de DallasMaicon" alt="Octocat de DallasMaicon" width="30%" align="left" />
 
 <p>Se aprochegue meu amigo, e confira meus projetos, qualquer dúvida ou sujestão, estou a disposição.</p>
 
