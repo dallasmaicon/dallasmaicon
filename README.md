@@ -1,6 +1,6 @@
 ### Olá, Maicon aqui 👋
 
-<img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/octocat.png?raw=true" title="Octocat de DallasMaicon" />
+<img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/octocat.png?raw=true" title="Octocat de DallasMaicon" alt="Octocat de DallasMaicon" width="30%" />
 
 <!--
 **dallasmaicon/dallasmaicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
