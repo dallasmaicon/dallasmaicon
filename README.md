@@ -7,6 +7,7 @@
     <p>:office: :computer: Atualmente estou trabalhando na <a href="http://questor.com.br/" target="_blank" title="Questor Sistemas | Empresa onde dallasmaicon trabalha atualmente">Questor Sistemas</a></p>    
     <p>:computer: :penguin: Estou trabalhando com Delphi no momento, mas tenho conhecimento em outras linguaguens, algumas sendo usados no meio corporativo. :office: </p>    
     <h3>Tecnologias:</h3>
+    <img src="./image/dallasmaicon_html5.png" alt="Tecnologias de dallasmaicon, simbolo do HTML5" title="Tecnologias de dallasmaicon, simbolo do HTML5" />
     <ul>
       <li>HTML5 | CSS3 | Javascript</li>
       <li>PHP | AJAX</li>
