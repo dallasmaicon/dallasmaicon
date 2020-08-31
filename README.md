@@ -10,11 +10,11 @@
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_html5.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do HTML5" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do HTML5" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_css3.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do CSS3" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do CSS3" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_js.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do JavaScrit" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do JavaScript" />
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_php.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do PHP" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do PHP" />
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_delphi.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do Delphi" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do Delphi" />
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_nodejs.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do NodeJS" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do NodeJS" />
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_react.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do React" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do React" />
     <ul>
-      <li>PHP | AJAX</li>
-      <li>Delphi</li>
-      <li>NodeJS</li>
-      <li>React</li>
       <li>SQL - SQLServer | Oracle | MariaDB | MondoDB | Firebird</li>
     </ul>
  </div>
