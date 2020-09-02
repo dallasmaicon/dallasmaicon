@@ -13,11 +13,12 @@
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_php.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do PHP" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do PHP" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_delphi.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do Delphi" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do Delphi" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_nodejs.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do NodeJS" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do NodeJS" />
-    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_react.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do React" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do React" />
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_react.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do React" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do React" />    
     <h3>Tecnologias SQL</h3>
-    <ul>
-      <li>SQLServer | Oracle | MariaDB | MondoDB | Firebird</li>
-    </ul>
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_mariadb.png?raw=true" width="50px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo MariaDB" title="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo MariaDB" />
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_firebird.png?raw=true" width="50px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo Firebird" title="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo Firebird" />
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_mongodb.png?raw=true" width="50px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo MongoDB" title="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo MongoDB" />
+    <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_oracle.png?raw=true" width="50px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo Oracle" title="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo Oracle" />
  </div>
 
 <!--
