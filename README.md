@@ -14,8 +14,9 @@
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_delphi.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do Delphi" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do Delphi" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_nodejs.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do NodeJS" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do NodeJS" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/dallasmaicon_react.png?raw=true" width="50px" alt="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do React" title="Listas das Tecnologias conheciadas por dallasmaicon, símbolo do React" />
+    <h3>Tecnologias SQL</h3>
     <ul>
-      <li>SQL - SQLServer | Oracle | MariaDB | MondoDB | Firebird</li>
+      <li>SQLServer | Oracle | MariaDB | MondoDB | Firebird</li>
     </ul>
  </div>
 
