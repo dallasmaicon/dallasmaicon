@@ -17,7 +17,7 @@
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/mariadb_dallasmaicon.png?raw=true" width="80px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo MariaDB" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/mongodb_dallasmaicon.png?raw=true" width="80px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo MongoDB" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/oracle_dallasmaicon.png?raw=true" width="80px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo Oracle" />
-    <h3>Onde me encontrar:</h3>
+    <h3>:shipit: Onde me encontrar:</h3>
     <a href="https://www.linkedin.com/in/dallasmaicon/"><img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/linkedin_dallasmaicon.png?raw=true" alt="Link para o LinkId de Maicon Andre" title="Link para o LinkId de Maicon Andre" width="80px" /></a>
     <a href="https://www.instagram.com/dallasmaicon/"><img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/instagran_dallasmaicon.png?raw=true" alt="Link para o Intagram de Maicon Andre" title="Link para o Intagram de Maicon Andre" width="80px" /></a>
     <a href="https://twitter.com/dallasmaicon"><img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/twitter_dallasmaicon.png?raw=true" alt="Link para o Twitter de Maicon Andre" title="Link para o Twitter de Maicon Andre" width="80px" /></a>
