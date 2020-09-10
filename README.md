@@ -18,8 +18,6 @@
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/mariadb_dallasmaicon.png?raw=true" width="50px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo MariaDB" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/mongodb_dallasmaicon.png?raw=true" width="50px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo MongoDB" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/oracle_dallasmaicon.png?raw=true" width="50px" alt="Listas das Tecnologias de banco de dodos conheciadas por dallasmaicon, símbolo Oracle" />
-    
-<\div>   
 
 <!--
 **dallasmaicon/dallasmaicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
