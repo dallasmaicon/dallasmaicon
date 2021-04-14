@@ -7,7 +7,7 @@
     <p>:computer: Comecei trabalhando com Web e Desktop, usando do PHP e Delphi. Desenvolvendo soluções a clientes, e auxiliando no aprimoramento da ferramenta.</p>
     <p>:penguin: Em 2019 entrei para a Questor Sistemas, auxiliando na criação da tecnologia do Quiu, que é um automatizador de processos, para escritórios de contabilidade. Trabalhando com a linguagem Delphi e JavaScript.</p>
     <p>E no final de 2020 inicie minha jornada na Ao3, trabalhando 100% em Home Office.</p>
-    <p>:nerd_face: No decorrer de minha história já usei algumas tecnologias dentre está estão:</p>
+    <p>:nerd_face: No decorrer de minha história já usei algumas tecnologias dentre estas:</p>
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/html5_dallasmaicon.png?raw=true" width="80px" alt="Imagem com o símbolo do HTML5, já trabalhei em empresas com este" title="Imagem com o símbolo do HTML5, já trabalhei em empresas com este" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/css3_dallasmaicon.png?raw=true" width="80px" alt="Imagem com o símbolo do CSS3, já trabalhei em empresas com este" title="Imagem com o símbolo do CSS3, já trabalhei em empresas com este" />
     <img src="https://github.com/dallasmaicon/dallasmaicon/blob/master/image/javascript_dallasmaicon.png?raw=true" width="80px" alt="Imagem com o símbolo do JavaScript, já trabalhei em empresas com este" title="Imagem com o símbolo do JavaScript, já trabalhei em empresas com este" />
